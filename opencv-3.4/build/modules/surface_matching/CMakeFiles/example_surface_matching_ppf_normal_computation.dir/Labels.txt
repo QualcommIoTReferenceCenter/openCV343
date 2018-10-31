@@ -1,0 +1,9 @@
+# Target labels
+ Extra
+ opencv_surface_matching
+ Sample
+# Source files and their labels
+/media/sdcard/openCV343/opencv_contrib-3.4/modules/surface_matching/samples/ppf_normal_computation.cpp
+ Extra
+ opencv_surface_matching
+ Sample

@@ -1,0 +1,19 @@
+# Target labels
+ Extra
+ opencv_freetype
+ Module
+# Source files and their labels
+/media/sdcard/openCV343/opencv_contrib-3.4/modules/freetype/include/opencv2/freetype.hpp
+ Extra
+ opencv_freetype
+ Module
+/media/sdcard/openCV343/opencv_contrib-3.4/modules/freetype/src/freetype.cpp
+ Extra
+ opencv_freetype
+ Module
+/media/sdcard/openCV343/opencv_contrib-3.4/modules/freetype/src/precomp.hpp
+ Extra
+ opencv_freetype
+ Module
+/media/sdcard/openCV343/opencv-3.4/build/cvconfig.h
+/media/sdcard/openCV343/opencv-3.4/build/opencv2/opencv_modules.hpp

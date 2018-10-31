@@ -1,0 +1,9 @@
+# Target labels
+ Extra
+ opencv_ximgproc
+ Sample
+# Source files and their labels
+/media/sdcard/openCV343/opencv_contrib-3.4/modules/ximgproc/samples/paillou_demo.cpp
+ Extra
+ opencv_ximgproc
+ Sample

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/sdcard/openCV343/opencv-3.4/build/modules/reg/opencv_reg_pch_dephelp.cxx
+/media/sdcard/openCV343/opencv_contrib-3.4/modules/reg/src/precomp.hpp
+-
+
+/media/sdcard/openCV343/opencv_contrib-3.4/modules/reg/src/precomp.hpp
+

@@ -1,0 +1,9 @@
+//user-defined headers
+#include "/media/sdcard/openCV343/opencv-3.4/modules/flann/misc/python/pyopencv_flann.hpp"
+#include "/media/sdcard/openCV343/opencv-3.4/modules/ml/misc/python/pyopencv_ml.hpp"
+#include "/media/sdcard/openCV343/opencv-3.4/modules/dnn/misc/python/pyopencv_dnn.hpp"
+#include "/media/sdcard/openCV343/opencv-3.4/modules/videoio/misc/python/pyopencv_videoio.hpp"
+#include "/media/sdcard/openCV343/opencv-3.4/modules/features2d/misc/python/pyopencv_features2d.hpp"
+#include "/media/sdcard/openCV343/opencv_contrib-3.4/modules/line_descriptor/misc/python/pyopencv_LSDDetector.hpp"
+#include "/media/sdcard/openCV343/opencv_contrib-3.4/modules/rgbd/misc/python/pyopencv_linemod.hpp"
+#include "/media/sdcard/openCV343/opencv-3.4/modules/stitching/misc/python/pyopencv_stitching.hpp"

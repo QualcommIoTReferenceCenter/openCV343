@@ -1,0 +1,19 @@
+# Target labels
+ Extra
+ opencv_plot
+ Module
+# Source files and their labels
+/media/sdcard/openCV343/opencv_contrib-3.4/modules/plot/include/opencv2/plot.hpp
+ Extra
+ opencv_plot
+ Module
+/media/sdcard/openCV343/opencv_contrib-3.4/modules/plot/src/plot.cpp
+ Extra
+ opencv_plot
+ Module
+/media/sdcard/openCV343/opencv_contrib-3.4/modules/plot/src/precomp.hpp
+ Extra
+ opencv_plot
+ Module
+/media/sdcard/openCV343/opencv-3.4/build/cvconfig.h
+/media/sdcard/openCV343/opencv-3.4/build/opencv2/opencv_modules.hpp

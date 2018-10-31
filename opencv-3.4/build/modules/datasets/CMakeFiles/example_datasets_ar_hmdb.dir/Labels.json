@@ -1,0 +1,24 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/media/sdcard/openCV343/opencv_contrib-3.4/modules/datasets/samples/ar_hmdb.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_datasets",
+				"Sample"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_datasets",
+			"Sample"
+		],
+		"name" : "example_datasets_ar_hmdb"
+	}
+}

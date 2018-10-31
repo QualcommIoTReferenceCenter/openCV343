@@ -1,0 +1,9 @@
+# Target labels
+ Extra
+ opencv_xfeatures2d
+ Sample
+# Source files and their labels
+/media/sdcard/openCV343/opencv_contrib-3.4/modules/xfeatures2d/samples/gms_matcher.cpp
+ Extra
+ opencv_xfeatures2d
+ Sample
