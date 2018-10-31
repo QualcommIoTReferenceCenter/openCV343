@@ -13,3 +13,5 @@
 - Configurar cartão microSD como memória SWAP e extensão do FileSystem (Preferência para cartão 16GB)
 - Clonar o repositório aqui disponibilizado
 - Instalar (**Make install em /opencv-3.4/build/**)
+
+**Para uma orientação mais detalhada dos passos acima, acesse o nosso [GitBook](https://facens.gitbook.io/qualcomm-iot-reference-center/)**
