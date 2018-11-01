@@ -10,8 +10,16 @@
 - Módulo de trackers (KCF, CSRT, MIL, entre outros)
 
 **A instalação do OpenCV engloba os seguintes passos:**
-- Configurar cartão microSD como memória SWAP e extensão do FileSystem (Preferência para cartão 16GB)
-- Clonar o repositório aqui disponibilizado
-- Instalar (**Make install em /opencv-3.4/build/**)
+- Configurar cartão microSD como memória SWAP e extensão do FileSystem (Preferência para cartão 16GB). Acesse o nosso [GitBook](https://facens.gitbook.io/qualcomm-iot-reference-center/)** para mais detalhes sobre o procedimento.
 
-**Para uma orientação mais detalhada dos passos acima, acesse o nosso [GitBook](https://facens.gitbook.io/qualcomm-iot-reference-center/)**
+- Clonar o repositório aqui disponibilizado:
+  - Acesse o diretório criado no passo anterior (/media/sdcard)
+  - Execute o comando: git clone https://github.com/QualcommIoTReferenceCenter/openCV343
+  
+- Instalar a biblioteca pré-compilada: 
+'''
+cd opencv-3.4
+sudo mkdir build
+cd build
+sudo make install
+  '''
