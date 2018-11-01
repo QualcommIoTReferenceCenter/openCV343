@@ -10,7 +10,7 @@
 - Módulo de trackers (KCF, CSRT, MIL, entre outros)
 
 **A instalação do OpenCV engloba os seguintes passos:**
-- Configurar cartão microSD como memória SWAP e extensão do FileSystem (Preferência para cartão 16GB). Acesse o nosso [GitBook](https://facens.gitbook.io/qualcomm-iot-reference-center/)** para mais detalhes sobre o procedimento.
+- Configurar cartão microSD como memória SWAP e extensão do FileSystem (Preferência para cartão 16GB). Acesse o nosso [GitBook](https://facens.gitbook.io/qualcomm-iot-reference-center/) para mais detalhes sobre o procedimento.
 
 - Clonar o repositório aqui disponibilizado:
   - Acesse o diretório criado no passo anterior (/media/sdcard)
