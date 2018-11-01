@@ -20,8 +20,6 @@
   
 **3.** Instalar a biblioteca pré-compilada:
 ```
-cd opencv-3.4
-sudo mkdir build
-cd build
+cd opencv-3.4/build/
 sudo make install
 ```
