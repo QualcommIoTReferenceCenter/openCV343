@@ -16,8 +16,10 @@
   - Acesse o diretório criado no passo anterior (/media/sdcard)
   - Execute o comando: git clone https://github.com/QualcommIoTReferenceCenter/openCV343
   
-- Instalar a biblioteca pré-compilada: 
-<cd opencv-3.4>
-<sudo mkdir build>
-<cd build>
-<sudo make install>
+- Instalar a biblioteca pré-compilada:
+```
+cd opencv-3.4
+sudo mkdir build
+cd build
+sudo make install
+```
