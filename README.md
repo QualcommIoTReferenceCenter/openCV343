@@ -15,8 +15,10 @@
 **1.** Configurar cartão microSD como memória SWAP e extensão do FileSystem (Preferência para cartão 16GB). Acesse o nosso [GitBook](https://facens.gitbook.io/qualcomm-iot-reference-center/configuracao-do-cartao-microsd-extensor-file-system-swap) para mais detalhes sobre o procedimento.
 
 **2.** Clonar o repositório aqui disponibilizado:
-  - Na DragonBoard410c, acesse o diretório criado no passo anterior (/media/sdcard): ```cd /media/sdcard/```
-  - Execute o comando: ```git clone https://github.com/QualcommIoTReferenceCenter/openCV343```
+  - Na DragonBoard410c, acesse o diretório criado no passo anterior (/media/sdcard): 
+  ```cd /media/sdcard/```
+  - Execute o comando: 
+  ```git clone https://github.com/QualcommIoTReferenceCenter/openCV343```
   
 **3.** Instalar a biblioteca pré-compilada:
 ```
