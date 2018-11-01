@@ -14,7 +14,7 @@
 
 **2.** Clonar o repositório aqui disponibilizado:
   - Na DragonBoard410c, acesse o diretório criado no passo anterior (/media/sdcard)
-  - Execute o comando: git clone `https://github.com/QualcommIoTReferenceCenter/openCV343
+  - Execute o comando: ```git clone https://github.com/QualcommIoTReferenceCenter/openCV343```
   
 **3.** Instalar a biblioteca pré-compilada:
 ```
