@@ -20,7 +20,17 @@
   - Execute o comando: 
  ```git clone https://github.com/QualcommIoTReferenceCenter/openCV343```
   
-**3.** Instalar a biblioteca pré-compilada:
+**4.** Instale as dependências:
+```
+sudo apt-get install build-essential cmake pkg-config -y
+sudo apt-get install libjpeg-dev libtiff5-dev libpng-dev -y
+sudo apt-get install libavcodec-dev libavformat-dev libswscale-dev libv4l-dev -y
+sudo apt-get install libxvidcore-dev libx264-dev -y
+sudo apt-get install libgtk2.0-dev libgtk-3-dev -y
+sudo apt-get install libatlas-base-dev gfortran -y
+```
+
+**4.** Instalar a biblioteca pré-compilada:
 ```
 cd /media/sdcard/opencv-3.4/build/
 sudo make install
